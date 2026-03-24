@@ -1,1 +1,1 @@
-## lstm-project - with CNN
+## lstm-project 
